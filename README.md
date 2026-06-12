@@ -48,11 +48,7 @@ Mobile app plus point:
   npm install npm@latest -g
   ```
 
-### Installation
 
-- Clone the repository
-  ```
-  git clone https://github.com/adityaganji889/Travel-Buddy.git
   ```
 - Install NPM packages for Backend Application
 
@@ -77,6 +73,3 @@ Mobile app plus point:
 - The Backend Servers are running on port `8080,3001`
 - The Frontend Applications are running on port `3000,3002`
 
-## Demonstration
-
-https://youtu.be/5fuidvR3vhA
